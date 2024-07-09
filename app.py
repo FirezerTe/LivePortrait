@@ -3,7 +3,7 @@
 """
 The entrance of the gradio
 """
-
+# as we have learned on MOnday and tuesday we have some introduction.
 import tyro
 import gradio as gr
 import os.path as osp
